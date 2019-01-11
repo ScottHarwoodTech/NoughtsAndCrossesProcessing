@@ -77,7 +77,7 @@ void drawState() {
 If you load the code in processing by going to `file -> open` you will be able to run the program by pressing the button in the top left of the screen.
 
 Another window should have popped up now creating the standard Noughts and Crosses grid.
-#### Image of drawGrid
+![Current Grid](https://github.com/ScottHarwoodTech/NoughtsAndCrossesProcessing/blob/master/blank%20board.PNG)
 
 ## Adding placing the pieces in the right places.
 First we are going to add is the ability to place a piece on the board.
@@ -97,8 +97,9 @@ void mouseClicked() {
     }
   }
 }
-#### board with pieces on it
 ```
+![Board with pieces on it](https://github.com/ScottHarwoodTech/NoughtsAndCrossesProcessing/blob/master/Board%20with%20pieces%20on%20it.PNG)
+
 
 Now that you have added this code you should be able to run the program again and click to place pieces.
 
@@ -190,7 +191,7 @@ void draw() {
   }
 }
 ```
-#### board showing winner
+![Board Showing Winner](https://github.com/ScottHarwoodTech/NoughtsAndCrossesProcessing/blob/master/WinnerBoard.PNG)
 ## Your game is now finished, awesome!
 Now that your game is all done you can begin to add new features such as:
 * drawing the winner on the screen!
